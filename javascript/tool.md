@@ -6,3 +6,4 @@
 
 ### No configuration javascript linter and formatter
 - [feross/standard](https://github.com/feross/standard)
+- [Amok - Live Editing for JavaScript](http://amokjs.com/)
