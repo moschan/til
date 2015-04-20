@@ -12,3 +12,20 @@
 
 - [Packery](http://packery.metafizzy.co/)
   - Mesonry作った人のレイアウトライブラリ
+
+
+- [riccardoscalco/textures](https://github.com/riccardoscalco/textures)
+
+
+- [zewish/rmodal.js](https://github.com/zewish/rmodal.js)
+  - シンプルなモーダルライブラリ
+  - 依存無し
+
+
+- [kiwi.js](http://www.kiwijs.org/)
+  - OSSのJSゲームフレームワーク
+  - WebGL
+
+### UI parts
+- [Animated-megadrop by djsmithme](http://djsmithme.github.io/Animated-Megadrop/)
+
