@@ -7,5 +7,8 @@
 ### No configuration javascript linter and formatter
 - [feross/standard](https://github.com/feross/standard)
 
+## CodeChecker
+- [jswatchdog](https://kintone.github.io/jswatchdog/)
+
 ## Others
 - [Amok - Live Editing for JavaScript](http://amokjs.com/)
