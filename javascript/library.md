@@ -29,3 +29,6 @@
 ### UI parts
 - [Animated-megadrop by djsmithme](http://djsmithme.github.io/Animated-Megadrop/)
 
+### JavaScript Robotics programming framework
+- [Johnny-Five](http://johnny-five.io/)
+

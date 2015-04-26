@@ -9,3 +9,6 @@
 
 ## Others
 - [Amok - Live Editing for JavaScript](http://amokjs.com/)
+- [dpnishant/jsprime](https://github.com/dpnishant/jsprime)
+- [titon/toolkit](https://github.com/titon/toolkit)
+- [jswatchdog](https://kintone.github.io/jswatchdog/)
