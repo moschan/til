@@ -15,3 +15,4 @@
 - [dpnishant/jsprime](https://github.com/dpnishant/jsprime)
 - [titon/toolkit](https://github.com/titon/toolkit)
 - [jswatchdog](https://kintone.github.io/jswatchdog/)
+- [npm semantic version calculator](http://semver.npmjs.com/)

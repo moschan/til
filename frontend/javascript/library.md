@@ -32,3 +32,6 @@
 ### JavaScript Robotics programming framework
 - [Johnny-Five](http://johnny-five.io/)
 
+
+### others
+- [type.js](http://typejs.org/)
