@@ -27,6 +27,10 @@
   - OSSのJSゲームフレームワーク
   - WebGL
 
+### Image
+- [williamngan/kubist](https://github.com/williamngan/kubist)
+  - [Demo](http://williamngan.github.io/kubist/)
+
 ### UI parts
 - [Animated-megadrop by djsmithme](http://djsmithme.github.io/Animated-Megadrop/)
 
