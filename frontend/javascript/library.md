@@ -27,6 +27,8 @@
   - OSSのJSゲームフレームワーク
   - WebGL
 
+- [dherman/asm.js](https://github.com/dherman/asm.js/)
+
 ### Image
 - [williamngan/kubist](https://github.com/williamngan/kubist)
   - [Demo](http://williamngan.github.io/kubist/)
