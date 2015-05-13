@@ -25,6 +25,8 @@
 - [kiwi.js](http://www.kiwijs.org/)
   - OSSのJSゲームフレームワーク
   - WebGL
+- [daken](https://github.com/moschan/daken)
+  - Simple javascript library of typing effect. 
 
 ### UI parts
 - [Animated-megadrop by djsmithme](http://djsmithme.github.io/Animated-Megadrop/)
