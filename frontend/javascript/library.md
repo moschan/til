@@ -13,6 +13,7 @@
 - [Packery](http://packery.metafizzy.co/)
   - Mesonry作った人のレイアウトライブラリ
 
+- [Space.js – HTML-driven narrative 3D-scrolling](http://www.slashie.org/space.js/)
 
 - [riccardoscalco/textures](https://github.com/riccardoscalco/textures)
 
@@ -28,9 +29,26 @@
 - [daken](https://github.com/moschan/daken)
   - Simple javascript library of typing effect. 
 
+- [dherman/asm.js](https://github.com/dherman/asm.js/)
+
+- [jquerymy.js](http://jquerymy.com/?utm_source=javascriptweekly&utm_medium=email)
+    - A lightweight jQuery plugin for complex two-way data binding in real time.
+
+- [mishk0/swiped](https://github.com/mishk0/swiped)
+- [NeXTs/Clusterize.js](https://github.com/NeXTs/Clusterize.js)
+
+### Image
+- [williamngan/kubist](https://github.com/williamngan/kubist)
+  - [Demo](http://williamngan.github.io/kubist/)
+
 ### UI parts
 - [Animated-megadrop by djsmithme](http://djsmithme.github.io/Animated-Megadrop/)
 
 ### JavaScript Robotics programming framework
 - [Johnny-Five](http://johnny-five.io/)
 
+
+### others
+- [type.js](http://typejs.org/)
+- [chinchang/cta.js](https://github.com/chinchang/cta.js#installation)
+- [wentin/underlineJS](https://github.com/wentin/underlineJS)
