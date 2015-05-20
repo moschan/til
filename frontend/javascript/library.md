@@ -12,6 +12,8 @@
 
 - [Packery](http://packery.metafizzy.co/)
   - Mesonry作った人のレイアウトライブラリ
+- [Flickity](http://flickity.metafizzy.co/)
+  - Mesonry作った人のフリック対応、カルーセル
 
 - [Space.js – HTML-driven narrative 3D-scrolling](http://www.slashie.org/space.js/)
 
@@ -25,7 +27,8 @@
 
 - [kiwi.js](http://www.kiwijs.org/)
   - OSSのJSゲームフレームワーク
-  - WebGL
+  - WebG [daken](https://github.com/moschan/daken)
+  - Simple javascript library of typing effect. 
 
 - [dherman/asm.js](https://github.com/dherman/asm.js/)
 
