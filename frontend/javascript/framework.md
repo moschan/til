@@ -9,3 +9,6 @@
 
 - [jsblocks - Better JavaScript MV-ish Framework](http://jsblocks.com/)
   - From simple user interfaces to complex single-page applications using faster, server-side rendered and easy to learn framework
+
+- [oiax/capejs](https://github.com/oiax/capejs)
+
