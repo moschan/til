@@ -10,6 +10,10 @@
 ## CodeChecker
 - [jswatchdog](https://kintone.github.io/jswatchdog/)
 
+## Gulp
+- [Gulp Fiction](http://gulpfiction.divshot.io/)
+gulpfileをGUIで作成
+
 ## Others
 - [Amok - Live Editing for JavaScript](http://amokjs.com/)
 - [dpnishant/jsprime](https://github.com/dpnishant/jsprime)
