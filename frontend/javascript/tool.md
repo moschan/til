@@ -21,3 +21,6 @@ gulpfileをGUIで作成
 - [jswatchdog](https://kintone.github.io/jswatchdog/)
 - [npm semantic version calculator](http://semver.npmjs.com/)
 - [Bower](http://bower.io/)
+- [rollup.js](http://rollupjs.org/)
+- [Photon](http://photonkit.com/)
+
