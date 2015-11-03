@@ -14,6 +14,10 @@
 - [Gulp Fiction](http://gulpfiction.divshot.io/)
 gulpfileをGUIで作成
 
+- [JavaScripting.com](http://www.javascripting.com/)
+JavaScriptのライブラリを人気度や、トレンドから探せる
+
+
 ## Others
 - [Amok - Live Editing for JavaScript](http://amokjs.com/)
 - [dpnishant/jsprime](https://github.com/dpnishant/jsprime)

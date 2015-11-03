@@ -55,3 +55,9 @@
 - [wentin/underlineJS](https://github.com/wentin/underlineJS)
 - [Atomic CSS](http://acss.io/)
 - [Snap.svg - Home](http://snapsvg.io/)
+
+- [canvid.js](http://gka.github.io/canvid/)
+canvid is a tiny dependency free library for playback of relatively short videos on canvas elements.
+
+- [Protip - Yet another jQuery tooltip plugin](http://protip.rocks/)
+Yet another jQuery tooltip plugin for ANY SITUATION*!
