@@ -17,4 +17,3 @@ This is my daily log that I learned.
 - [workflow](https://github.com/moschan/til/tree/master/words)
 
 For new TILs, follow [@moschann](https://twitter.com/moschann) on Twitter.
-
