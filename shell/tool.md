@@ -6,3 +6,17 @@
 
 # better ssh
 - [Mosh: the mobile shell](https://mosh.mit.edu/)
+
+# mail
+```
+# Make email from CLI
+mail
+
+# check domain or server info
+dig [domain]
+
+
+# check MX record
+dig [domain] mx
+
+```
